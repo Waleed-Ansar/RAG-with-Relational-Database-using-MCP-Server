@@ -59,9 +59,10 @@ agent_executor = AgentExecutor(
     agent=agent,
     tools=tools,
     memory=memory,
-    verbose=True,
+    verbose=False,
     return_intermediate_steps=False
 )
 
 # user_id = 2cb6e8f0-cca6-4d4e-996f-3f7f2f94f5fa
+
 # batch_id = bb00797c-d1c0-43e7-bbc5-54f57ee963b3
