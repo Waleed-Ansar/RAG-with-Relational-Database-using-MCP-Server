@@ -21,7 +21,7 @@ Answer: Based on the data retrieved, there are **4 developers in total**:
 So the total count is 4 developers.
 
 
-## Code Execution in verbose=False:
+## Code Execution in verbose=True:
 
 Ask: tell me the occupation of Ali?   
 
