@@ -3,7 +3,7 @@
 
 ## Project Layout
 ```
-/d:/Practice/MCP Server/Deep MCP/
+Deep MCP/
 ├── mcp_server/
 ├── mcp_client/
 └── agent/
@@ -12,8 +12,11 @@
 
 ## Module Organization
 ```
-src/
+Deep MCP/
 ├── main.py
+├── test.py
+├── idea.md
+|
 ├── mcp_server/
 │   ├── server.py
 │   └── tools.py
@@ -30,3 +33,4 @@ src/
 - **Server Module**: Handles MCP Server Logic
 - **Client Module**: Handles MCP Server Client
 - **Agent Module**:  Contains AI Agent and Model
+
